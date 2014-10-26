@@ -36,3 +36,5 @@ PXEBoot 简易安卓 PXE 启动服务器
   本应用是开源的： https://github.com/chenall/Android-PXEBoot  
 
   可以到这里报告BUG: https://github.com/chenall/Android-PXEBoot/issues
+
+  最新版下载地址：http://b.chenall.net/PXEBoot.apk
